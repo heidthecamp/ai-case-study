@@ -74,15 +74,27 @@ the very best options for your project priorities.`
 
 ## Landscape
 
-* The companies field
+* Almost all of the major tech companies have attempted to make smart cities a
+reality, including Cisco Systems, IBM, and Microsoft; however I feel that sidewalk
+labs top competor in the space currently is going to come from startups like 
+UrbanistAI.
 
-* The major trends and innovations over the past five throug ten years
-
-* The other major companies in this field
+* Most of the companies I see when searching for __Sidewalk Labs__'  competitors
+tend to be people focusing on the data collection side, very few are using
+AI to help design our cities. This is why I feel __Sidewalk Labs__ really stands
+out and is one of the more successful smart city projects. The primary AI urban
+design tool I found outside of __Sidewalk labs__ is __UrbanistAI__<sup>[[12]](12)
+</sup>--a company that seems to be taking photos of existing infrastructure and
+using using image generation similar to photoshops new auto fill feature.
+__Sidewalk Labs__ seems to be the only one developing actual plans when designing
+a city.
 
 ## Results
 
-* The impact the company has had so far
+* So far __Sidewalk Labs__' flagship project seems to be the collaboration
+between them and the city of Toronto CA, where __Sidewalk Labs__ has design a 12
+acre lot<sup>[[13]](#13)</sup>, using sustainable materials. However, this
+project was scrapped by May 2020<sup>[[14]](#14)</sup>. 
 
 * How companies in theis field measure success and how this specific company is
 perfomring based on these metrics
@@ -91,13 +103,66 @@ perfomring based on these metrics
 
 ## Recommendations
 
+* I would suggest tracking decibel level and how changes to the infrastruct would
+affect the volume of the surrounding area.
+
+  * It is increasingly evedent that increased noise polution is leading to medical
+  side affects that are becoming more understood, including, `heart disease, high
+  blood pressure, and stroke`<sup>[[7](#7)]</sup>  
+  ![alt text](image-1.png)<sup>[[8](#8)]</sup>
+
+  * This would likely require on the ground sound recording equipment to measure
+  the volume before and after which will have an increased burden placed on the
+  developers/policy makers in addition to the cost of the equipment.
+
+  * This change might be nessicary to operate in some countries as Nuicense laws
+  are passed limiting the average noise level housing can be subjected to. In the
+  Netherlands they have already passed such laws. `Near buildings, the noise from
+  road traffic, businesses and other sources may not normally exceed certain
+  levels, or ‘preferred limit values’.`<sup>[[9]](#9)</sup> Additionally the cost
+  of equipment may not even be that high once you realize everyone is carrying a
+  sound recording device on them these days. Google has even devloped an app
+  called Science Journal (now Arduino Science Journal), which has the ability to
+  track decible over a duration. So they would need to update the software to
+  take this data in and model projected noise levels once the changes are done
+
+* There is also a concern about a lack of domocrization within the process and
+public perception issues with clames that `it sought to establish an autonomous
+city zone excluded from democratic oversight and governed by itself as the “lead
+developer of real estate.”`<sup>[[10](#10)]</sup> To combat these worries and
+allegations I suggest that they include the local officials more closely during
+the design phase of the project and if any regulations seem antiquated or extra
+burdensom propose having the population vote on over turning or amending rather
+than seeking blaket exemptions. Finally I would suggest having an method for
+residents to submit feedback and commentary during the process, this could look
+like having a message board that is shared via ads using location service, qr
+codes around the city, or just mailing the info to the local residents.
+
+  * I mentioned before that __Sidewalk Labs__ has the reputation of its parent
+  company, __Alphabet__, that can be a mixed blessing as everyone knows them but
+  also __Google__ has been on the end of many controversial lawsuits recently
+  that may lead to some level of mistrust from the public. So implementing my
+  proposals and going above and beyond for public out reach is essential.
+
+  * There is no special technology required for these other than graphic design
+  work to best attract the eye of the locals and communicating with residents and
+  officials.
+
+  * It was just 100 years ago since the decline of company towns in America
+  <sup>[[11](#11)]</sup> and I have seen more conversation around it since Apple
+  and Google have started building campuses that their employees never have to
+  leave. Developing a city that you are able to go around the regulations that
+  other developers may not be able to will be unsettling to people. You will need
+  to gain public favor with this new technology before people are willing to
+  accept much of what is being offered.
+
 * Suggestions I would propose to the company in questoin
 
-* What benifits my suggestion would bring
+  * What benifits my suggestion would bring
 
-* Required aditions products and services need to implement my idea
+  * Required aditions products and services need to implement my idea
 
-* Why these technologies are appropriate for my suggestion
+  * Why these technologies are appropriate for my suggestion
 
 ## Resources
 
@@ -128,3 +193,36 @@ perfomring based on these metrics
 ### 6
 
 [Smart Cities Dive: 5 takeaways from side walk labs smart city master plan](https://www.smartcitiesdive.com/news/5-takeaways-from-sidewalk-labs-smart-city-master-plan/557518/)
+
+### 7
+
+[Very Well Mind](https://www.verywellmind.com/stress-and-noise-pollution-how-you-may-be-at-risk-3145041)
+
+### 8
+
+[ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6878772/)
+
+### 9
+
+[Netherlands: Noise Nuisance](https://www.government.nl/topics/environment/noise-nuisance/noise-nuisance-and-the-law)
+
+### 10
+
+[pubpub](https://projections.pubpub.org/pub/2bwwek3k/release/1)
+
+### 11
+
+[Company Towns](https://en.wikipedia.org/wiki/Company_town)
+
+### 12
+
+[UrbanistAI](https://urbanistai.com/)
+
+### 13
+
+[Beyer Blinder Belle](https://www.beyerblinderbelle.com/projects/214_sidewalk_toronto)
+
+
+### 14
+
+[MIT Technology Review](https://www.technologyreview.com/2022/06/29/1054005/toronto-kill-the-smart-city/)
