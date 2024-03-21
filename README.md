@@ -1,14 +1,30 @@
 # ai-case-study
 
+## Table of Contents
+
+* [Overview and Origin](#overview-and-origin)
+
+* [Business Activities](#business-activities)
+
+* [Landscape](#landscape)
+
+* [Results](#results)
+
+* []
+
 ## Overview and Origin
 
-* Company Name
+ ![Sidewalk Labs Logo](./Resources/logo_sidewalk_full_076263f719.svg)
 
-* Date incorporated
+* Sidewalk Labs (Alphabet)<sup>{[1]}</sup> 
 
-* How did the idea for the company come about?
+* Founded June 2015<sup>[2]</sup>
 
-* Source of funding and amount
+* __Sidewalk Labs__ was founded within __Google__ in 2015 before it moved under
+the __Alpahabet__ parent company.
+
+* __Sidewalk Labs__ has only held one round funding which has received a total of
+five million dollars
 
 ## Business Activities
 
@@ -47,3 +63,15 @@ perfomring based on these metrics
 * Required aditions products and services need to implement my idea
 
 * Why these technologies are appropriate for my suggestion
+
+## Resources
+
+[1] [Sidewalk Labs](https://www.sidewalklabs.com/)
+
+[2] [Wikipedia/Sidewalk_Labs](https://en.wikipedia.org/wiki/Sidewalk_Labs)
+
+[3] [Tracxn](https://tracxn.com/)
+
+[3.1] [Key Metrics](https://tracxn.com/d/companies/sidewalk-labs/__19hlb_6aHudIUsNLi7RKreNcHQbafT1yLgIW9fjenw0)
+
+[3.2] [Competitors](https://tracxn.com/d/companies/sidewalk-labs/__19hlb_6aHudIUsNLi7RKreNcHQbafT1yLgIW9fjenw0/competitors)
