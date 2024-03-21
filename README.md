@@ -111,7 +111,7 @@ affect the volume of the surrounding area.
   * It is increasingly evedent that increased noise polution is leading to medical
   side affects that are becoming more understood, including, `heart disease, high
   blood pressure, and stroke`<sup>[[7](#7)]</sup>  
-  ![alt text](image-1.png)<sup>[[8](#8)]</sup>
+  ![alt text](resources/image-1.png)<sup>[[8](#8)]</sup>
 
   * This would likely require on the ground sound recording equipment to measure
   the volume before and after which will have an increased burden placed on the
