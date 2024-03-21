@@ -43,9 +43,9 @@ If you are in real estate or work for a city, we'd like to speak with you.
 
 * The primary customers for __Sidewalk Labs__ are realestate development companies
 and policy makers who can affect urban planning.Their major products include:
-  * Mesa: a product to `reduce carbon emissions, [recently] added leak detection and air 
-  quality monitoring`<sup>[[5]](#5)</sup>. *_This product is no longer listed on
-  their home web page._
+  * Mesa: a product to `reduce carbon emissions, [recently] added leak detection
+  and air quality monitoring`<sup>[[5]](#5)</sup>. *_This product is no longer
+  listed on their home web page._
 
   * Delve: `helps real estate teams and cities create and compare thousands of
   design options for a city block or neighborhood.`<sup>[[5]](#5)</sup>
@@ -61,7 +61,8 @@ I'm unable to finde the answer for--is how many major cities are using
 __Sidewalk Labs__' services and how can the out reach to more municipalities.  
 One of __Sidewalk Labs__' more public partnerships is with _Toronto, CA_;
 proposing a 1.3 billion dollar price with `the hopes of catalyzing $38 billion
-in investments by 2040`<sup>[[6]](#6)</sup>
+in investments by 2040`<sup>[[6]](#6)</sup>. This plan has since been canceled.
+<sup>[[14]](#14)</sup>
 
 * One advantage __Sidewalk Labs__ has right from the starting line is being
 associated with Google/Alphabet. This gives them a big financial headstart,
@@ -76,7 +77,7 @@ the very best options for your project priorities.`
 
 * Almost all of the major tech companies have attempted to make smart cities a
 reality, including Cisco Systems, IBM, and Microsoft; however I feel that sidewalk
-labs top competor in the space currently is going to come from startups like 
+labs top competor in the space currently is going to come from startups like
 UrbanistAI.
 
 * Most of the companies I see when searching for __Sidewalk Labs__'  competitors
@@ -94,12 +95,13 @@ a city.
 * So far __Sidewalk Labs__' flagship project seems to be the collaboration
 between them and the city of Toronto CA, where __Sidewalk Labs__ has design a 12
 acre lot<sup>[[13]](#13)</sup>, using sustainable materials. However, this
-project was scrapped by May 2020<sup>[[14]](#14)</sup>. 
+project was scrapped by May 2020<sup>[[14]](#14)</sup>.
 
-* How companies in theis field measure success and how this specific company is
-perfomring based on these metrics
-
-* How is this company perfoming compared to it's compeditors
+* If success is defiend by being the first to implement a smart city so far I see
+no company that has truely succeeded yet. I feel that __Sidewalk Labs__ has come
+really close, only having their proposal revoked after the 2020 pandemic caused
+major uncertainty. In the mean time __Sidewalk Labs__ is still selling a
+partnering with realestate development teams.
 
 ## Recommendations
 
@@ -155,14 +157,6 @@ codes around the city, or just mailing the info to the local residents.
   other developers may not be able to will be unsettling to people. You will need
   to gain public favor with this new technology before people are willing to
   accept much of what is being offered.
-
-* Suggestions I would propose to the company in questoin
-
-  * What benifits my suggestion would bring
-
-  * Required aditions products and services need to implement my idea
-
-  * Why these technologies are appropriate for my suggestion
 
 ## Resources
 
@@ -221,7 +215,6 @@ codes around the city, or just mailing the info to the local residents.
 ### 13
 
 [Beyer Blinder Belle](https://www.beyerblinderbelle.com/projects/214_sidewalk_toronto)
-
 
 ### 14
 
